@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://Bob:Bob@cluster0.rnhz4.mongodb.net/investmentAppDatabase?retryWrites=true&w=majority",
+  "jwtSecret": "mi_myJwtSecret"
+}
